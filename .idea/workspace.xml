@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0bf71ae4-d576-41ab-90f5-48da66f910c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/BitwieseDemo/BitwiseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/Dequeue_Inbuilt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/DynamicQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/DynamicStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/InBuildExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/InBuildQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/circularqueuecustom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/customQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/customstack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/question/LargestRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/question/StackInterviewQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/question/mintomakeValidParan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/question/validParenthess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/queueMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/stackException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/stackMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Trees/AVL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Trees/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Trees/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Trees/DFSTreeQuestions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Trees/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Trees/SegmentTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Trees/TreeProblems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abstractClasses/abstractCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abstractClasses/abstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abstractClasses/abstractrules.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abstractClasses/hel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/Array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/Array3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/Array4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/Array5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/Array6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/Array7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/Array8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/Array9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collections/LHM_AS_CACHE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collections/LinkedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collections/array_comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collections/bitset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collections/hashtable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collections/linkedlistexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collections/properties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collections/studentchallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collections/tree_map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/CLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/CLLmain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/DLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/InterviewQuestions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/LInkedListQuestions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/LL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/LLKK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/ddmain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/String1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/testt1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/twoD_arrays/twoDstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/twoD_arrays/twodexample.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2wfUNoOAvqJjUZIrOzR994HD60T" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array1.executor": "Run",
+    "Application.BST.executor": "Run",
+    "Application.BinaryTree.executor": "Run",
+    "Application.CLLmain.executor": "Run",
+    "Application.InBuildExamples.executor": "Run",
+    "Application.InBuildQueue.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Q_102_Binary_Tree_Level_Order_Traversal.executor": "Run",
+    "Application.StackInterviewQuestion.executor": "Run",
+    "Application.String1.executor": "Run",
+    "Application.TreeProblems.executor": "Run",
+    "Application.com.linkedlist.CLLmain.executor": "Run",
+    "Application.ddmain.executor": "Run",
+    "Application.hashtable.executor": "Run",
+    "Application.hel.executor": "Run",
+    "Application.hello.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.queueMain.executor": "Run",
+    "Application.stackMain.executor": "Run",
+    "Application.test1.executor": "Run",
+    "Application.test2.executor": "Run",
+    "Application.test3.executor": "Run",
+    "Application.test4.executor": "Run",
+    "Application.time.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.preview.features.used": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/JavaTest/src/com/DSA/LinkdedList"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\JavaTest\src\com\DSA\LinkdedList" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.arrays" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TreeProblems">
+    <configuration name="Array1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arrays.Array1" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Trees.BST" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Trees.Main" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q_102_Binary_Tree_Level_Order_Traversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Trees.Question.Q_102_Binary_Tree_Level_Order_Traversal" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Trees.Question.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeProblems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Trees.TreeProblems" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TreeProblems" />
+        <item itemvalue="Application.Q_102_Binary_Tree_Level_Order_Traversal" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Array1" />
+        <item itemvalue="Application.BST" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bf71ae4-d576-41ab-90f5-48da66f910c6" name="Changes" comment="" />
+      <created>1746432084975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746432084975</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
