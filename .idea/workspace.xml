@@ -4,79 +4,141 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bf71ae4-d576-41ab-90f5-48da66f910c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/BitwieseDemo/BitwiseDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/Dequeue_Inbuilt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/DynamicQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/DynamicStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/InBuildExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/InBuildQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/circularqueuecustom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/customQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/customstack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/question/LargestRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/question/StackInterviewQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/question/mintomakeValidParan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/question/validParenthess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/queueMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/stackException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Stacks_queues/stackMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Trees/AVL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Trees/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Trees/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Trees/DFSTreeQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Trees/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Trees/SegmentTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Trees/TreeProblems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abstractClasses/abstractCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abstractClasses/abstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abstractClasses/abstractrules.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abstractClasses/hel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/Array1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/Array2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/Array3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/Array4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/Array5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/Array6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/Array7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/Array8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/Array9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collections/LHM_AS_CACHE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collections/LinkedHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collections/array_comparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collections/bitset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collections/hashtable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collections/linkedlistexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collections/properties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collections/studentchallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collections/tree_map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/CLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/CLLmain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/DLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/InterviewQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/LInkedListQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/LL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/LLKK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/ddmain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/String1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/testt1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/twoD_arrays/twoDstrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/twoD_arrays/twodexample.java" afterDir="false" />
+    <list default="true" id="0bf71ae4-d576-41ab-90f5-48da66f910c6" name="Changes" comment="trees graphs and many more">
+      <change afterPath="$PROJECT_DIR$/src/com/Genrics/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Genrics/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Genrics/genericmethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Genrics/generics2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Genrics/wildcard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/IOstream/DataStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/IOstream/bufferreader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/IOstream/charr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/IOstream/first.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/IOstream/input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/IOstream/pipedstram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/IOstream/prin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/IOstream/random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/IOstream/serialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/IOstream/studentchallagene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/IOstream/studentchallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/IOstream/studentchallenge1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Inheritance/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Inheritance/Override.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Inheritance/OverriideRules.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Inheritance/cars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Inheritance/cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Inheritance/dynamicmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Inheritance/parameterizedconstructer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Inheritance/studentchallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Inheritance/superconstructer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Inheritance/thisandsuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Inheritance/thiss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Inheritance/tvs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaApplication32/Adult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaApplication32/Grades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaApplication32/JavaApplication4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaApplication32/Menudriven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaApplication32/Months.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaApplication32/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaApplication32/Website.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaApplication32/Website2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaApplication32/Week.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaApplication32/radix_leap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaApplication4/Adult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaApplication4/Grades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaApplication4/JavaApplication4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaApplication4/Menudriven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaApplication4/Months.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaApplication4/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaApplication4/Website.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaApplication4/Website2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaApplication4/Week.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaApplication4/radix_leap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Lamda/Lamda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Lamda/Lamda4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Lamda/lamda2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Lamda/lamda3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Loops/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Loops/fsfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Loops/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LoopsPractice/Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LoopsPractice/Gpseries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LoopsPractice/Loopspractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LoopsPractice/apseries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LoopsPractice/countdigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LoopsPractice/displaydigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LoopsPractice/displaynumberinwords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LoopsPractice/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LoopsPractice/fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LoopsPractice/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LoopsPractice/reversenumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LoopsPractice/sumnnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Methods/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Methods/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Methods/maxelement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/MyFirst/IncDec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/MyFirst/MyFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/MyFirst/NewClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/MyFirst/NewMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/MyFirst/Quadratic_Equation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/MyFirst/cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/MyFirst/program1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/MyFirst/testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/MyFirst/testt4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NestedLoops/NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NestedLoops/patter11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NestedLoops/patter12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NestedLoops/patter13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NestedLoops/pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/OOPS/OOPS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/OOPS/SCLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/OOPS/SCoops2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/OOPS/cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/OOPS/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/date_and_time/Date_and_time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/date_and_time/calender_timezone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/date_and_time/datetimeformatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/date_and_time/joda_time_api.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/date_and_time/timeclasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exceptionhandling/CheckedUnchecked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exceptionhandling/Exceptionhandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exceptionhandling/FinallyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exceptionhandling/SCException1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exceptionhandling/ThrowThrowsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exceptionhandling/nestedexcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exceptionhandling/trywithexception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/innerclasses/Innerclasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/innerclasses/staticinnerclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interfaces/Interfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interfaces/SCIterface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interfaces/dosandonts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interfaces/phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interfaces/phoneexam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javadoc/AnnotationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javadoc/Javadoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javadoc/userdefinedano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalang/EnumDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalang/Javalang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalang/MathDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalang/ReflectDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalang/float_char_bool_double.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalang/interger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalang/string_buffer_builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalang/wrapperclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/multithreading/challenge2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/multithreading/interthread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/multithreading/studentchallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/multithreading/synchronization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/multithreading/threadclass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/multithreading/threadclass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/multithreading/threadclassandRI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/network_programming/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/network_programming/datagram_SErver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/network_programming/datagram_client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/network_programming/multiuser_server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/network_programming/server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +155,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "saklain-s"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/saklain-s/JavaTest.git",
+    "accountId": "04eceff8-3f61-4682-aad9-a8398958a3a1"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -142,12 +216,19 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.preview.features.used": "true",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/JavaTest/src/com/DSA/LinkdedList"
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/JavaTest/src/com/OOPS"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\User\IdeaProjects\JavaTest\src\com\DSA\LinkdedList" />
+      <recent name="C:\Users\User\IdeaProjects\JavaTest\src\com\MyFirst" />
+      <recent name="C:\Users\User\IdeaProjects\JavaTest\src\com\multithreading" />
+      <recent name="C:\Users\User\IdeaProjects\JavaTest\src\com\Methods" />
+      <recent name="C:\Users\User\IdeaProjects\JavaTest\src\com\LoopsPractice" />
+      <recent name="C:\Users\User\IdeaProjects\JavaTest\src\com\Loops" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\JavaTest\src\com" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.arrays" />
@@ -238,6 +319,23 @@
       <option name="presentableId" value="Default" />
       <updated>1746432084975</updated>
     </task>
+    <task id="LOCAL-00001" summary="trees graphs and many more">
+      <option name="closed" value="true" />
+      <created>1753259022065</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753259022065</updated>
+    </task>
+    <task id="LOCAL-00002" summary="trees graphs and many more">
+      <option name="closed" value="true" />
+      <created>1753259145006</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753259145006</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,5 +348,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="trees graphs and many more" />
+    <option name="LAST_COMMIT_MESSAGE" value="trees graphs and many more" />
   </component>
 </project>
