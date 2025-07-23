@@ -313,7 +313,7 @@ int count = 0;
 
         int pathSum = left + right +node.val;
 
-        ans = Math.max(ans, pathSum);
+        ans  = Math.max(ans, pathSum);
 
         return Math.max(left, right)+node.val;
     }
