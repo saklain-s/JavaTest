@@ -34,11 +34,11 @@ public class student {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         details obj = new details();
-        System.out.println("Enter your name lil Nigga: ");
+        System.out.println("Enter your name: ");
         obj.name = sc.next();
-        System.out.println("Enter your ID no: lil Nigga: ");
+        System.out.println("Enter your ID no: ");
         obj.rno = sc.nextInt();
-        System.out.println("Enter your Course lil Nigga: ");
+        System.out.println("Enter your Course: ");
         obj.course = sc.next();
         System.out.println("Enter your marks of three subjects: ");
         obj.m1 = sc.nextInt();

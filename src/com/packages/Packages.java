@@ -50,5 +50,4 @@ public class Packages{
       System.out.println(d1.a+d1.b+d1.c+d1.d);
       
     }
-    
 }

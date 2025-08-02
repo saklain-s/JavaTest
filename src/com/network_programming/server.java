@@ -22,7 +22,7 @@ public class server {
             msg = sb.toString();
             ps.println(msg);
         }while(!msg.equals("dne"));
-        System.out.println("Server is teminated");
+        System.out.println("Server is terminated");
     }
     
 }

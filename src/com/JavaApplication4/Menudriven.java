@@ -33,15 +33,15 @@ public class Menudriven {
                 
             case "SUB":
                 int SUB = x - y;
-                System.out.println("Sum is "+SUB);
+                System.out.println("Difference is "+SUB);
                 break;
             case "MUL":
                 int MUL = x * y;
-                System.out.println("Sum is "+MUL);
+                System.out.println("Product is "+MUL);
                 break;
             case "DIV":
-                int DIV = x + y;
-                System.out.println("Sum is "+DIV);
+                int DIV = x / y;
+                System.out.println("Quotient is "+DIV);
                 break;
             
         }

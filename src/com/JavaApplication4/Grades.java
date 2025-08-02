@@ -35,7 +35,7 @@ public class Grades {
         {
             System.out.println("C Grade");
         }
-         else if(Avg >=40 && Avg <40)
+         else if(Avg >=40 && Avg <50)
         {
             System.out.println("D Grade");
         }

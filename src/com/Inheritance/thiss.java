@@ -17,7 +17,7 @@ class Rectangle{
     }
     void display()
     {
-        System.out.println("Lenght is:"+this.length);
+        System.out.println("Length is:"+this.length);
         System.out.println("Breadth is:"+this.breadth);
     }
 }

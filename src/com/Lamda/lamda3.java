@@ -1,16 +1,16 @@
 package com.Lamda;
 
 import java.lang.*;
-package lamda;
 
-interface MyLambda
+
+interface NewLambda
 {
     public void display();
 }
 
 class UseLambda
 {
-    public void callLambda(MyLambda ml)
+    public void callLambda(NewLambda ml)
     {
         ml.display();
     }

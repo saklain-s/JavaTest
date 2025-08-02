@@ -14,7 +14,7 @@ public class datagram_client {
         byte b[] = new byte[1024];
         ds.receive(dp);
         msg = new String(dp.getData()).trim();
-        System.out.println("Fron client"+msg);
+        System.out.println("From client: "+msg);
         ds.close();
 
         

@@ -11,7 +11,7 @@ public class random
     public static void main(String[] args) throws Exception
     {
         RandomAccessFile rf=new RandomAccessFile("Data.txt","rw");
-       //byte b[]={'A','B','C','D','E','F','G''H','I','J'};
+       //byte b[]={'A','B','C','D','E','F','G','H','I','J'};
        
         System.out.println((char)rf.read());
         System.out.println((char)rf.read());

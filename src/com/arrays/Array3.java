@@ -21,7 +21,7 @@ public class Array3
         {
             if(key==A[i])
             {
-                System.out.println("FOund");
+                System.out.println("Found");
                 System.exit(0);
             }
 

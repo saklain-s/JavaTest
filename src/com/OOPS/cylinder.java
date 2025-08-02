@@ -29,7 +29,7 @@ public class cylinder {
         obj.height = sc.nextDouble();
         obj.radius = sc.nextDouble();
         System.out.println("Area is: "+obj.lidArea());
-        System.out.println("Cicumference is: "+obj.circumference());
+        System.out.println("Circumference is: "+obj.circumference());
         System.out.println("Total area is: "+obj.totalArea());
         
     }

@@ -15,7 +15,7 @@ public class FinallyDemo
         }
         finally
         {
-           //this message willdefinitly execute 
+           //this message will definitely execute 
         System.out.println("Final Message");
         }
         

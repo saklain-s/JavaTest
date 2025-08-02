@@ -20,7 +20,7 @@ public class datagram_SErver {
         DatagramPacket dp = new DatagramPacket(b, 1024);
         ds.receive(dp);
         String msg = new String(dp.getData()).trim();
-        System.out.println("From ser"+msg);
+        System.out.println("From server: "+msg);
         StringBuilder sb = new StringBuilder(msg);
         msg=sb.toString();
         dp = new DatagramPacket(msg.getBytes(),msg.length(),InetAddress.getByName("192.168.137.1"),2001);

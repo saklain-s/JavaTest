@@ -11,13 +11,6 @@ import java.util.Scanner;
  * @author User
  */
 public class NewClass {
-    
-
-
-
-public class MyFirst {
-
-    
     public static void main(String[] args) 
     {
         int a,b,c;
@@ -34,8 +27,4 @@ public class MyFirst {
         area = Math.sqrt(s*(s-a)*(s-b)*(s-c));
         System.out.println("Area is " + area );
     }
-    
-}
-
-    
 }

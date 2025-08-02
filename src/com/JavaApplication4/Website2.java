@@ -34,7 +34,7 @@ public class Website2 {
                 System.out.println("Indian Website");
                 break;
             default :
-                System.out.println("Ivalid URl :(");
+                System.out.println("Invalid URL :(");
                 break;
         }
         

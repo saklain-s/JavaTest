@@ -49,12 +49,12 @@ class Customer
     public Customer(String custId,String name)
     {
         this.custId=custId;
-        this.address=name;
+        this.name=name;
     }
     public Customer(String custId,String name,String address,String phno)
     {
         this.custId=custId;
-        this.address=name;
+        this.name=name;
         setAddress(address);
         setPhno(phno);
     }

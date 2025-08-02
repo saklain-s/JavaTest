@@ -14,7 +14,7 @@ public class timeclasses {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code applicationd logic here
+        // TODO code application logic here
         ZonedDateTime zdt = ZonedDateTime.now(ZoneId.of("America/Los_Angeles"));
         System.out.println(zdt);
         Period p = Period.of(2, 5, 4);

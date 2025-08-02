@@ -33,7 +33,7 @@ public class Week {
         }
         else if(num == 4)
         {
-            System.out.println("Thrusday");
+            System.out.println("Thursday");
         }
         else if(num == 5)
         {

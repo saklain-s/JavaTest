@@ -79,6 +79,6 @@ public class studentchallenge
     public static void main(String[] args) 
     {
         // You can add your code here to create instances of SavingsAccount and LoanAccount and perform operations on them.
-        LoanAccount l = new  LoanAccount();
+        LoanAccount l = new LoanAccount("123", "John Doe", "123 Main St", "555-1234", "1990-01-01");
     }   
 }
