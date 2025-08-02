@@ -4,46 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bf71ae4-d576-41ab-90f5-48da66f910c6" name="Changes" comment="trees graphs and many more">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Genrics/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Genrics/demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Genrics/genericmethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Genrics/genericmethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/IOstream/DataStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/IOstream/DataStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/IOstream/prin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/IOstream/prin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/IOstream/random.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/IOstream/random.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Inheritance/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Inheritance/Inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Inheritance/Override.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Inheritance/Override.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Inheritance/OverriideRules.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Inheritance/OverriideRules.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Inheritance/cuboid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Inheritance/cuboid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Inheritance/studentchallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Inheritance/studentchallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Inheritance/thisandsuper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Inheritance/thisandsuper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Inheritance/thiss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Inheritance/thiss.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/JavaApplication4/Grades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/JavaApplication4/Grades.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/JavaApplication4/Menudriven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/JavaApplication4/Menudriven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Lamda/Lamda4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Lamda/Lamda4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Lamda/lamda3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Lamda/lamda3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/MyFirst/NewClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/MyFirst/NewClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/OOPS/cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/OOPS/cylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/OOPS/datahiding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/OOPS/datahiding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/OOPS/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/OOPS/student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Trees/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trees/BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/arrays/Array3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/arrays/Array3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/date_and_time/timeclasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/date_and_time/timeclasses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exceptionhandling/Exceptionhandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exceptionhandling/Exceptionhandling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exceptionhandling/FinallyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exceptionhandling/FinallyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/innerclasses/staticinnerclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/innerclasses/staticinnerclass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interfaces/Interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interfaces/Interfaces.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interfaces/SCIterface1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/multithreading/interthread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/multithreading/interthread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/multithreading/synchronization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/multithreading/synchronization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/multithreading/threadclassandRI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/multithreading/threadclassandRI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/network_programming/datagram_SErver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/network_programming/datagram_SErver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/network_programming/datagram_client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/network_programming/datagram_client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/network_programming/server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/network_programming/server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/packages/Packages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/packages/Packages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/staticandfinal/Staticandfinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/staticandfinal/Staticandfinal.java" afterDir="false" />
-    </list>
+    <list default="true" id="0bf71ae4-d576-41ab-90f5-48da66f910c6" name="Changes" comment="trees graphs and many more" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
